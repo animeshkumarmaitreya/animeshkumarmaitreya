@@ -7,9 +7,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=animeshkumarmaitreya&show_icons=true&locale=en" alt="animeshkumarmaitreya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=animeshkumarmaitreya&" alt="animeshkumarmaitreya" /></p> 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=animeshkumarmaitreya)](https://github.com/anuraghazra/github-readme-stats)
-
 -------
 
 <h3 align="left">Connect with me:</h3>
