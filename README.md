@@ -6,7 +6,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=animeshkumarmaitreya&show_icons=true&locale=en" alt="animeshkumarmaitreya" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=animeshkumarmaitreya&" alt="animeshkumarmaitreya" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=animeshkumarmaitreya&" alt="animeshkumarmaitreya" /></p> 
 
 -------
 
